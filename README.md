@@ -4,4 +4,6 @@ This is a multi option filter
 
 ### Stack
 
-React, Typescript, Tailwind
+- React
+- Typescript
+- Tailwind
